@@ -1,15 +1,15 @@
-# Frontend Development – Internship
-# pristoninternshipbackend
-This repository contains frontend development work completed during my Full Stack Developer Internship at **Prinston Smart Engineers**.
+# Backend Development – Internship
+
+This repository contains backend development work completed during my Full Stack Developer Internship at **Prinston Smart Engineers**.
 
 ## Technology Stack
-- React.js
+- Node.js
+- Express.js
+- MongoDB
 - JavaScript
-- HTML5
-- CSS3
 
 ## Overview
 
-Worked on frontend development using React.js as part of my hands-on learning and internship experience with the MERN stack.
+Worked on backend development using Node.js, Express.js, and MongoDB as part of my hands-on learning and internship experience with the MERN stack.
 
 **Author:** Naik Jitesh Mahabaleshwar
